@@ -35,6 +35,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 ### Year 2021
 (ICLR 2021) **Combining Label Propagation and Simple Models out-performs Graph Neural Networks** [[Paper]](https://openreview.net/pdf?id=8E1-f3VhX1o) [[Code]](https://github.com/CUAI/CorrectAndSmooth)
 
+(ICLR 2021) **AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models** [[Paper]](https://openreview.net/pdf?id=QkRbdiiEjM) [[Code]](https://github.com/datake/AdaGCN)
+
 (NIPS 2021) **Node Dependent Local Smoothing for Scalable Graph Learning** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/a9eb812238f753132652ae09963a05e9-Paper.pdf) 
 
 (NIPS 2021) **A Large-Scale Database for Graph Representation Learning** [[Paper]](https://openreview.net/pdf?id=1xDTDk3XPW) [[Code]](https://www.mal-net.org/)

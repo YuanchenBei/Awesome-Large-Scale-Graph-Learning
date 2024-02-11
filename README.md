@@ -1,2 +1,87 @@
 # Awesome-Large-Scale-Graph-Learning
-A curated list of papers on large-scale graph learning.
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://github.com/YuanchenBei/Awesome-Large-Scale-Graph-Learning) 
+![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Large-Scale-Graph-Learning?color=green)
+
+This repository contains a curated list of papers on **large-scale graph learning**, which are sorted by their published years.
+
+*Continuously updating!*
+
+-----
+### Year 2024
+(WWW 2024) **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems** [[Paper]](https://arxiv.org/pdf/2401.14939.pdf) [[Code]](https://github.com/YuanchenBei/MacGNN)
+
+
+### Year 2023
+(SDM 2023) **Adaptive Label Smoothing To Regularize Large-Scale Graph Training** [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch7)
+
+### Year 2022
+(ICLR 2022) **Large-Scale Representation Learning on Graphs via Bootstrapping** [[Paper]](https://openreview.net/pdf?id=0UXT6PpRpW) [[Code]](https://github.com/nerdslab/bgrl)
+
+(NIPS 2022) **Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/46027e3de0db3617a911f1a647def3bf-Paper-Conference.pdf) [[Code]](https://github.com/zyzisastudyreallyhardguy/Graph-Group-Discrimination)
+
+(NIPS 2022) **A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/23ee05bf1f4ade71c0f8f5ca722df601-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/VITA-Group/Large_Scale_GCN_Benchmarking)
+
+(ICML 2022) **Large-Scale Graph Neural Architecture Search** [[Paper]](https://proceedings.mlr.press/v162/guan22d/guan22d.pdf) [[Code]](https://github.com/THUMNLab/GAUSS)
+
+(KDD 2022) **Embedding Compression with Hashing for Efficient Representation Learning in Large-Scale Graph** [[Paper]](https://arxiv.org/pdf/2208.05648.pdf) [[Paper]](https://arxiv.org/pdf/2208.05648.pdf)
+
+(KDD 2022) **Graph Attention Multi-Layer Perceptron** [[Paper]](https://arxiv.org/pdf/2206.04355.pdf) [[Code]](https://github.com/PKU-DAIR/GAMLP)
+
+(CIKM 2022) **AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training** [[Paper]](http://dl-acm-org-s.webvpn.zju.edu.cn:8001/doi/pdf/10.1145/3511808.3557228) [[Code]](https://github.com/YL-wang/CIKM_AdaGCL/)
+
+(VLDB 2022) **ByteGNN: Efficient Graph Neural Network Training at Large Scale** [[Paper]](https://www.vldb.org/pvldb/https://www.vldb.org/pvldb/vol15/p1228-zheng.pdf)
+
+### Year 2021
+(ICLR 2021) **Combining Label Propagation and Simple Models out-performs Graph Neural Networks** [[Paper]](https://openreview.net/pdf?id=8E1-f3VhX1o) [[Code]](https://github.com/CUAI/CorrectAndSmooth)
+
+(NIPS 2021) **Node Dependent Local Smoothing for Scalable Graph Learning** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/a9eb812238f753132652ae09963a05e9-Paper.pdf) 
+
+(NIPS 2021) **A Large-Scale Database for Graph Representation Learning** [[Paper]](https://openreview.net/pdf?id=1xDTDk3XPW) [[Code]](https://www.mal-net.org/)
+
+(NIPS 2021) **Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/ae816a80e4c1c56caa2eb4e1819cbb2f-Paper.pdf) [[Code]](https://github.com/CUAI/Non-Homophily-Large-Scale)
+
+(ICML 2021) **GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings** [[Paper]](https://proceedings.mlr.press/v139/fey21a/fey21a.pdf)
+
+(KDD 2021) **Pre-training on Large-Scale Heterogeneous Graph** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467396)
+
+(IJCAI 2021) **Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks** [[Paper]](https://cs.nju.edu.cn/lwj/paper/IJCAI21_BNS.pdf)
+
+(SC 2021) **DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks** [[Paper]](https://arxiv.org/pdf/2104.06700.pdf) 
+
+### Year 2020
+(ICLR 2020) **GraphSAINT: Graph Sampling Based Inductive Learning Method** [[Paper]](https://openreview.net/pdf?id=BJe8pkHFwS) [[Code]](https://github.com/GraphSAINT/GraphSAINT)
+
+(NIPS 2020) **Scalable Graph Neural Networks via Bidirectional Propagation** [[Paper]](https://proceedings.neurips.cc/paper/2020/file/a7789ef88d599b8df86bbee632b2994d-Paper.pdf)
+
+(NIPS 2020) **Self-Supervised Graph Transformer on Large-Scale Molecular Data** [[Paper]](https://proceedings.neurips.cc/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf) [[Code]](https://github.com/tencent-ailab/grover)
+
+(KDD 2020) **Scaling Graph Neural Networks with Approximate PageRank** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403296) [[Code]](https://github.com/TUM-DAML/pprgo_pytorch)
+
+(TKDE 2020) **GAIN: Graph Attention & Interaction Network for Inductive Semi-Supervised Learning over Large-scale Graphs** [[Paper]](https://arxiv.org/pdf/2011.01393.pdf)
+
+(TKDD 2020) **Accelerating Large-Scale Heterogeneous Interaction Graph Embedding Learning via Importance Sampling** [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6890&context=sis_research)
+
+(Arxiv 2020) **SIGN: Scalable Inception Graph Neural Networks** [[Paper]](https://arxiv.org/pdf/2004.11198.pdf)
+
+### Before & Year 2019
+
+(ICLR 2019) **Large Scale Graph Learning from Smooth Signals** [[Paper]](https://arxiv.org/pdf/1710.05654.pdf) [[Code]](https://epfl-lts2.github.io/gspbox-html/doc/demos/gsp_demo_learn_graph_large.html)
+
+(NIPS 2019) **Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks** [[Paper]](https://proceedings.neurips.cc/paper/2019/file/91ba4a4478a66bee9812b0804b6f9d1b-Paper.pdf) [[Code]](https://github.com/acbull/LADIES)
+
+(ICML 2019) **Simplifying Graph Convolutional Networks** [[Paper]](https://proceedings.mlr.press/v97/wu19e/wu19e.pdf) [[Code]](https://github.com/Tiiiger/SGC)
+
+(KDD 2019) **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330925) [[Code]](https://github.com/benedekrozemberczki/ClusterGCN)
+
+(Arxiv 2019) **Scalable and Adaptive Graph Neural Networks with Self-Label-Enhanced Training** [[Paper]](https://arxiv.org/pdf/2104.09376.pdf) [[Code]](https://github.com/skepsun/SAGN_with_SLE)
+
+(ICLR 2018) **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling** [[Paper]](https://openreview.net/pdf?id=rytstxWAW) [[Code]](https://github.com/matenure/FastGCN)
+
+(KDD 2018) **Large-Scale Learnable Graph Convolutional Networks** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219947) [[Code]](https://github.com/divelab/lgcn/)
+
+(KDD 2018) **Graph Convolutional Neural Networks for Web-Scale Recommender Systems** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3219890)
+
+(ICML 2018) **Improved Large-Scale Graph Learning through Ridge Spectral Sparsification** [[Paper]](https://proceedings.mlr.press/v80/calandriello18a/calandriello18a.pdf)
+
+(NIPS 2017) **Inductive Representation Learning on Large Graphs** [[Paper]](https://proceedings.neurips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf) [[Code]](https://github.com/williamleif/GraphSAGE)

@@ -41,6 +41,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 ### Year 2022
 (ICLR 2022) **Large-Scale Representation Learning on Graphs via Bootstrapping** [[Paper]](https://openreview.net/pdf?id=0UXT6PpRpW) [[Code]](https://github.com/nerdslab/bgrl)
 
+(ICLR 2022) **Graph-less Neural Networks: Teaching Old MLPs New Tricks Via Distillation** [[Paper]](https://openreview.net/pdf?id=4p6_5HBWPCw) [[Code]](https://github.com/snap-research/graphless-neural-networks)
+
 (NIPS 2022) **Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/46027e3de0db3617a911f1a647def3bf-Paper-Conference.pdf) [[Code]](https://github.com/zyzisastudyreallyhardguy/Graph-Group-Discrimination)
 
 (NIPS 2022) **A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/23ee05bf1f4ade71c0f8f5ca722df601-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/VITA-Group/Large_Scale_GCN_Benchmarking)
@@ -51,9 +53,11 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (KDD 2022) **Graph Attention Multi-Layer Perceptron** [[Paper]](https://arxiv.org/pdf/2206.04355.pdf) [[Code]](https://github.com/PKU-DAIR/GAMLP)
 
-(CIKM 2022) **AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training** [[Paper]](http://dl-acm-org-s.webvpn.zju.edu.cn:8001/doi/pdf/10.1145/3511808.3557228) [[Code]](https://github.com/YL-wang/CIKM_AdaGCL/)
+(AAAI 2022) **Beyond GNNs: An Efficient Architecture for Graph Problems** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20548/20307)
 
 (VLDB 2022) **ByteGNN: Efficient Graph Neural Network Training at Large Scale** [[Paper]](https://www.vldb.org/pvldb/https://www.vldb.org/pvldb/vol15/p1228-zheng.pdf)
+
+(CIKM 2022) **AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training** [[Paper]](http://dl-acm-org-s.webvpn.zju.edu.cn:8001/doi/pdf/10.1145/3511808.3557228) [[Code]](https://github.com/YL-wang/CIKM_AdaGCL/)
 
 ### Year 2021
 (ICLR 2021) **Combining Label Propagation and Simple Models out-performs Graph Neural Networks** [[Paper]](https://openreview.net/pdf?id=8E1-f3VhX1o) [[Code]](https://github.com/CUAI/CorrectAndSmooth)

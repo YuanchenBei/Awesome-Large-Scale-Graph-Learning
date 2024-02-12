@@ -16,6 +16,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 ### Year 2023
 (NIPS 2023) **LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings** [[Paper]](https://openreview.net/pdf?id=7zkFc9TGKz) [[Code]](https://github.com/gdmnl/LD2)
 
+(NIPS 2023) **Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data** [[Paper]](https://openreview.net/pdf?id=XkcufOcgUc) [[Code]](https://github.com/Amanda-Zheng/SFGC)
+
 (ICML 2023) **LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation** [[Paper]](https://openreview.net/pdf?id=P98vAWoj5W) [[Code]](https://github.com/RXPHD/Lazy_GNN)
 
 (ICML 2023) **Linkless Link Prediction via Relational Distillation** [[Paper]](https://proceedings.mlr.press/v202/guo23f/guo23f.pdf) [[Code]](https://github.com/snap-research/linkless-link-prediction/)
@@ -27,6 +29,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 (CVPR 2023) **From Node Interaction to Hop Interaction: New Effective and Scalable Graph Learning Paradigm** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_From_Node_Interaction_To_Hop_Interaction_New_Effective_and_Scalable_CVPR_2023_paper.pdf) [[Code]](https://github.com/JC-202/HopGNN)
 
 (VLDB 2023) **Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach** [[Paper]](https://www.vldb.org/pvldb/vol17/p175-xu.pdf) [[Code]](https://github.com/iBoom2333/AnchorGNN)
+
+(ICDM 2023) **Double Wins: Boosting Accuracy and Efficiency of Graph Neural Networks by Reliable Knowledge Distillation** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415671) 
 
 (SDM 2023) **Adaptive Label Smoothing To Regularize Large-Scale Graph Training** [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch7)
 

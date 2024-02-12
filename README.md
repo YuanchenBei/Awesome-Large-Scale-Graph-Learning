@@ -15,6 +15,7 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (ICLR 2024) **LightHGNN: Distilling Hypergraph Neural Networks into MLPs for 100 × Faster Inference** [[Paper]](https://arxiv.org/pdf/2402.04296.pdf)
 
+-----
 ### Year 2023
 (ICLR 2023) **Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency** [[Paper]](https://openreview.net/pdf?id=Cs3r5KLdoj) [[Code]](https://github.com/meettyj/NOSMOG)
 
@@ -42,6 +43,7 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (SDM 2023) **Adaptive Label Smoothing To Regularize Large-Scale Graph Training** [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch7)
 
+-----
 ### Year 2022
 (ICLR 2022) **Large-Scale Representation Learning on Graphs via Bootstrapping** [[Paper]](https://openreview.net/pdf?id=0UXT6PpRpW) [[Code]](https://github.com/nerdslab/bgrl)
 
@@ -67,6 +69,7 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (CIKM 2022) **AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training** [[Paper]](http://dl-acm-org-s.webvpn.zju.edu.cn:8001/doi/pdf/10.1145/3511808.3557228) [[Code]](https://github.com/YL-wang/CIKM_AdaGCL/)
 
+-----
 ### Year 2021
 (ICLR 2021) **Combining Label Propagation and Simple Models out-performs Graph Neural Networks** [[Paper]](https://openreview.net/pdf?id=8E1-f3VhX1o) [[Code]](https://github.com/CUAI/CorrectAndSmooth)
 
@@ -94,6 +97,7 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (Arxiv 2021) **Graph-MLP: Node Classification without Message Passing in Graph** [[Paper]](https://arxiv.org/pdf/2106.04051.pdf) [[Code]](https://github.com/yanghu819/Graph-MLP)
 
+-----
 ### Year 2020
 (ICLR 2020) **GraphSAINT: Graph Sampling Based Inductive Learning Method** [[Paper]](https://openreview.net/pdf?id=BJe8pkHFwS) [[Code]](https://github.com/GraphSAINT/GraphSAINT)
 
@@ -113,6 +117,7 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (Arxiv 2020) **SIGN: Scalable Inception Graph Neural Networks** [[Paper]](https://arxiv.org/pdf/2004.11198.pdf)
 
+-----
 ### Before & Year 2019
 
 (ICLR 2019) **Large Scale Graph Learning from Smooth Signals** [[Paper]](https://arxiv.org/pdf/1710.05654.pdf) [[Code]](https://epfl-lts2.github.io/gspbox-html/doc/demos/gsp_demo_learn_graph_large.html)

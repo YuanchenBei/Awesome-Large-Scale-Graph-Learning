@@ -38,6 +38,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (ICDM 2023) **Double Wins: Boosting Accuracy and Efficiency of Graph Neural Networks by Reliable Knowledge Distillation** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415671) 
 
+(RecSys 2023) **LightSAGE: Graph Neural Networks for Large Scale Item Retrieval in Shopee’s Advertisement Recommendation** [[Paper]](https://arxiv.org/pdf/2310.19394.pdf)
+
 (SDM 2023) **Adaptive Label Smoothing To Regularize Large-Scale Graph Training** [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch7)
 
 ### Year 2022
@@ -48,6 +50,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 (NIPS 2022) **Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/46027e3de0db3617a911f1a647def3bf-Paper-Conference.pdf) [[Code]](https://github.com/zyzisastudyreallyhardguy/Graph-Group-Discrimination)
 
 (NIPS 2022) **A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/23ee05bf1f4ade71c0f8f5ca722df601-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/VITA-Group/Large_Scale_GCN_Benchmarking)
+
+(ICML 2022) **GraphFM: Improving Large-Scale GNN Training via Feature Momentum** [[Paper]](https://proceedings.mlr.press/v162/yu22g/yu22g.pdf)
 
 (ICML 2022) **Large-Scale Graph Neural Architecture Search** [[Paper]](https://proceedings.mlr.press/v162/guan22d/guan22d.pdf) [[Code]](https://github.com/THUMNLab/GAUSS)
 
@@ -70,6 +74,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (ICLR 2021) **On Graph Neural Networks versus Graph-Augmented MLPs** [[Paper]](https://openreview.net/pdf?id=tiqI7w64JG2) [[Code]](https://github.com/leichen2018/GNN_vs_GAMLP)
 
+(NIPS 2021) **VQ-GNN: A Universal Framework to Scale-up Graph Neural Networks using Vector Quantization** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/3569df159ec477451530c4455b2a9e86-Paper.pdf) [[Code]](https://github.com/devnkong/VQ-GNN)
+
 (NIPS 2021) **Node Dependent Local Smoothing for Scalable Graph Learning** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/a9eb812238f753132652ae09963a05e9-Paper.pdf) 
 
 (NIPS 2021) **A Large-Scale Database for Graph Representation Learning** [[Paper]](https://openreview.net/pdf?id=1xDTDk3XPW) [[Code]](https://www.mal-net.org/)
@@ -79,6 +85,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 (ICML 2021) **GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings** [[Paper]](https://proceedings.mlr.press/v139/fey21a/fey21a.pdf)
 
 (KDD 2021) **Pre-training on Large-Scale Heterogeneous Graph** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467396)
+
+(WWW 2021) **Hashing-Accelerated Graph Neural Networks for Link Prediction** [[Paper]](https://arxiv.org/pdf/2105.14280.pdf) [[Code]](https://github.com/williamweiwu/williamweiwu.github.io/tree/master/Graph_Network%20Embedding/HashGNN)
 
 (IJCAI 2021) **Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks** [[Paper]](https://cs.nju.edu.cn/lwj/paper/IJCAI21_BNS.pdf)
 
@@ -94,6 +102,10 @@ This repository contains a curated list of papers on **large-scale graph learnin
 (NIPS 2020) **Self-Supervised Graph Transformer on Large-Scale Molecular Data** [[Paper]](https://proceedings.neurips.cc/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf) [[Code]](https://github.com/tencent-ailab/grover)
 
 (KDD 2020) **Scaling Graph Neural Networks with Approximate PageRank** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403296) [[Code]](https://github.com/TUM-DAML/pprgo_pytorch)
+
+(WWW 2020) **Learning to Hash with Graph Neural Networks for Recommender Systems** [[Paper]](https://arxiv.org/pdf/2003.01917.pdf)
+
+(ICDE 2020) **Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications** [[Paper]](https://drive.google.com/file/d/1KfnuTkQdPb6HKaJQaF5nmEpav08Em8lj/view)
 
 (TKDE 2020) **GAIN: Graph Attention & Interaction Network for Inductive Semi-Supervised Learning over Large-scale Graphs** [[Paper]](https://arxiv.org/pdf/2011.01393.pdf)
 

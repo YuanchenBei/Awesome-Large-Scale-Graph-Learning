@@ -11,10 +11,14 @@ This repository contains a curated list of papers on **large-scale graph learnin
 ### Year 2024
 (WWW 2024) **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems** [[Paper]](https://arxiv.org/pdf/2401.14939.pdf) [[Code]](https://github.com/YuanchenBei/MacGNN)
 
+(ICLR 2024) **VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs** [[Paper]](https://openreview.net/pdf?id=h6Tz85BqRI) [[Code]](https://github.com/YangLing0818/VQGraph)
+
 ### Year 2023
 (NIPS 2023) **LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings** [[Paper]](https://openreview.net/pdf?id=7zkFc9TGKz) [[Code]](https://github.com/gdmnl/LD2)
 
 (ICML 2023) **LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation** [[Paper]](https://openreview.net/pdf?id=P98vAWoj5W) [[Code]](https://github.com/RXPHD/Lazy_GNN)
+
+(ICML 2023) **Linkless Link Prediction via Relational Distillation** [[Paper]](https://proceedings.mlr.press/v202/guo23f/guo23f.pdf) [[Code]](https://github.com/snap-research/linkless-link-prediction/)
 
 (ICML 2023) **GOAT: A Global Transformer on Large-scale Graphs** [[Paper]](https://proceedings.mlr.press/v202/kong23a/kong23a.pdf) [[Code]](https://github.com/devnkong/GOAT)
 

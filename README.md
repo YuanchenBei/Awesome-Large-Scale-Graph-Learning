@@ -18,7 +18,11 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (ICML 2023) **GOAT: A Global Transformer on Large-scale Graphs** [[Paper]](https://proceedings.mlr.press/v202/kong23a/kong23a.pdf) [[Code]](https://github.com/devnkong/GOAT)
 
+(AAAI 2023) **Scalable Spatiotemporal Graph Neural Networks** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/25880/25652) [[Code]](https://github.com/Graph-Machine-Learning-Group/sgp)
+
 (CVPR 2023) **From Node Interaction to Hop Interaction: New Effective and Scalable Graph Learning Paradigm** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_From_Node_Interaction_To_Hop_Interaction_New_Effective_and_Scalable_CVPR_2023_paper.pdf) [[Code]](https://github.com/JC-202/HopGNN)
+
+(VLDB 2023) **Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach** [[Paper]](https://www.vldb.org/pvldb/vol17/p175-xu.pdf) [[Code]](https://github.com/iBoom2333/AnchorGNN)
 
 (SDM 2023) **Adaptive Label Smoothing To Regularize Large-Scale Graph Training** [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch7)
 

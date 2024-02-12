@@ -53,6 +53,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (KDD 2022) **Graph Attention Multi-Layer Perceptron** [[Paper]](https://arxiv.org/pdf/2206.04355.pdf) [[Code]](https://github.com/PKU-DAIR/GAMLP)
 
+(SIGIR 2022) **An MLP-based Algorithm for Efficient Contrastive Graph Recommendations** [[Paper]](https://eprints.gla.ac.uk/269020/1/269020.pdf)
+
 (AAAI 2022) **Beyond GNNs: An Efficient Architecture for Graph Problems** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20548/20307)
 
 (VLDB 2022) **ByteGNN: Efficient Graph Neural Network Training at Large Scale** [[Paper]](https://www.vldb.org/pvldb/https://www.vldb.org/pvldb/vol15/p1228-zheng.pdf)
@@ -63,6 +65,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 (ICLR 2021) **Combining Label Propagation and Simple Models out-performs Graph Neural Networks** [[Paper]](https://openreview.net/pdf?id=8E1-f3VhX1o) [[Code]](https://github.com/CUAI/CorrectAndSmooth)
 
 (ICLR 2021) **AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models** [[Paper]](https://openreview.net/pdf?id=QkRbdiiEjM) [[Code]](https://github.com/datake/AdaGCN)
+
+(ICLR 2021) **On Graph Neural Networks versus Graph-Augmented MLPs** [[Paper]](https://openreview.net/pdf?id=tiqI7w64JG2) [[Code]](https://github.com/leichen2018/GNN_vs_GAMLP)
 
 (NIPS 2021) **Node Dependent Local Smoothing for Scalable Graph Learning** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/a9eb812238f753132652ae09963a05e9-Paper.pdf) 
 
@@ -77,6 +81,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 (IJCAI 2021) **Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks** [[Paper]](https://cs.nju.edu.cn/lwj/paper/IJCAI21_BNS.pdf)
 
 (SC 2021) **DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks** [[Paper]](https://arxiv.org/pdf/2104.06700.pdf) 
+
+(Arxiv 2021) **Graph-MLP: Node Classification without Message Passing in Graph** [[Paper]](https://arxiv.org/pdf/2106.04051.pdf) [[Code]](https://github.com/yanghu819/Graph-MLP)
 
 ### Year 2020
 (ICLR 2020) **GraphSAINT: Graph Sampling Based Inductive Learning Method** [[Paper]](https://openreview.net/pdf?id=BJe8pkHFwS) [[Code]](https://github.com/GraphSAINT/GraphSAINT)

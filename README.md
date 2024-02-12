@@ -13,7 +13,11 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (ICLR 2024) **VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs** [[Paper]](https://openreview.net/pdf?id=h6Tz85BqRI) [[Code]](https://github.com/YangLing0818/VQGraph)
 
+(ICLR 2024) **LightHGNN: Distilling Hypergraph Neural Networks into MLPs for 100 × Faster Inference** [[Paper]](https://arxiv.org/pdf/2402.04296.pdf)
+
 ### Year 2023
+(ICLR 2023) **Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency** [[Paper]](https://openreview.net/pdf?id=Cs3r5KLdoj) [[Code]](https://github.com/meettyj/NOSMOG)
+
 (NIPS 2023) **LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings** [[Paper]](https://openreview.net/pdf?id=7zkFc9TGKz) [[Code]](https://github.com/gdmnl/LD2)
 
 (NIPS 2023) **Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data** [[Paper]](https://openreview.net/pdf?id=XkcufOcgUc) [[Code]](https://github.com/Amanda-Zheng/SFGC)

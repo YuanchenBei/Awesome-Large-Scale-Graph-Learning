@@ -18,6 +18,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 ### Year 2023
 (ICLR 2023) **Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency** [[Paper]](https://openreview.net/pdf?id=Cs3r5KLdoj) [[Code]](https://github.com/meettyj/NOSMOG)
 
+(ICLR 2023) **MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization** [[Paper]](https://openreview.net/pdf?id=P8YIphWNEGO) [[Code]](https://github.com/snap-research/MLPInit-for-GNNs)
+
 (NIPS 2023) **LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings** [[Paper]](https://openreview.net/pdf?id=7zkFc9TGKz) [[Code]](https://github.com/gdmnl/LD2)
 
 (NIPS 2023) **Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data** [[Paper]](https://openreview.net/pdf?id=XkcufOcgUc) [[Code]](https://github.com/Amanda-Zheng/SFGC)

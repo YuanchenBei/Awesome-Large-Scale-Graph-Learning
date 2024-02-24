@@ -11,6 +11,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 ### Year 2024
 (WWW 2024) **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems** [[Paper]](https://arxiv.org/pdf/2401.14939.pdf) [[Code]](https://github.com/YuanchenBei/MacGNN)
 
+(WWW 2024) **Linear-Time Graph Neural Networks for Scalable Recommendations** [[Paper]](https://arxiv.org/pdf/2402.13973.pdf) [[Code]](https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch)
+
 (ICLR 2024) **VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs** [[Paper]](https://openreview.net/pdf?id=h6Tz85BqRI) [[Code]](https://github.com/YangLing0818/VQGraph)
 
 (ICLR 2024) **LightHGNN: Distilling Hypergraph Neural Networks into MLPs for 100 × Faster Inference** [[Paper]](https://arxiv.org/pdf/2402.04296.pdf)

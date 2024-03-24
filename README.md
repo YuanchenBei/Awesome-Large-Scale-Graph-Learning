@@ -17,6 +17,8 @@ This repository contains a curated list of papers on **large-scale graph learnin
 
 (ICLR 2024) **LightHGNN: Distilling Hypergraph Neural Networks into MLPs for 100 × Faster Inference** [[Paper]](https://arxiv.org/pdf/2402.04296.pdf)
 
+(Arxiv 2024) **Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network** [[Paper]](https://arxiv.org/pdf/2403.13268.pdf)
+
 -----
 ### Year 2023
 (ICLR 2023) **Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency** [[Paper]](https://openreview.net/pdf?id=Cs3r5KLdoj) [[Code]](https://github.com/meettyj/NOSMOG)
